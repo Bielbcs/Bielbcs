@@ -19,6 +19,7 @@
     <td>Jest</td>
     <td>Linux</td>
     <td>Bash</td>
+    <td>Npm</td>
   </tr>
   <tr>
     <td><img alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
@@ -31,6 +32,7 @@
     <td><img alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></td>
     <td><img alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></td>
     <td><img alt="Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></td>
   </tr>
 </table>
   
