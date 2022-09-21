@@ -31,6 +31,7 @@
 </div>
   
 <div align="center">
+  
   ![Snake animation](https://github.com/Bielbcs/Bielbcs/blob/output/github-contribution-grid-snake.svg)
   
   #### Entre em contato:
